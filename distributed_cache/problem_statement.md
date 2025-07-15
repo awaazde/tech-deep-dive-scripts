@@ -1,4 +1,4 @@
-# Distributed Cache with Consistency - Tech Deep Dive Session
+# Distributed Cache with Consistency
 
 ## Goal 
 Build a distributed cache system that handles consistency across multiple nodes, similar to Redis Cluster or Memcached.
